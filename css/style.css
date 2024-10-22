@@ -62,6 +62,7 @@ footer {
 footer p {
     margin: 0;
 }
+<<<<<<< HEAD
 
 
 /* Estilos para el carrusel */
@@ -97,3 +98,5 @@ footer p {
 .carousel-indicators [data-bs-target] {
     background-color: #000000;
 }
+=======
+>>>>>>> 02f3d5a0e63a8cdc7dabf8dfc1dca2be5ce6732e
