@@ -59,6 +59,7 @@ function retirar(event) {
     } else {
         alert("No tiene suficiente saldo para realizar el retiro.");
     }
+<<<<<<< HEAD
 }
 
 
@@ -76,4 +77,6 @@ function handleRegister(event) {
     // Por simplicidad, cerramos el modal y mostramos un mensaje
     alert('Usuario registrado con éxito!');
     document.getElementById("registrarModal").modal('hide');
+=======
+>>>>>>> 75eeb028e7c11e62c60dbd1c358884f3e6cdb1b8
 }
